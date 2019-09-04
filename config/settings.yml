@@ -1,0 +1,4 @@
+validation:
+  max_length: 255
+  name_length: 50
+  passw_minl: 6
